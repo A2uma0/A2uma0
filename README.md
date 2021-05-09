@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 😏
 
-<!--
-**A2uma0/A2uma0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on trying to fix my life.
+- 🌱 I’m currently learning C#, Webdesign stuff.
+- 👯 I’m looking to collaborate with [React 😢](https://github.com/reactdev1337)
+- 💬 Ask me about nothing.
+- 📫 How to reach me: why would you want to do that? But anyways here: A2#6909 (Discord)
+- ⚡ Fun fact: [React](https://github.com/reactdev1337) is cool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReactDev1337&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReactDev1337&layout=compact&theme=tokyonight)
+
+![Profile views](https://gpvc.arturio.dev/ReactDev1337)
