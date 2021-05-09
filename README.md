@@ -11,6 +11,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=react)
 <br>
+
+### Vibing to : 🎧 
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/tom.kap-de) <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=react)
 
 ![Profile views](https://gpvc.arturio.dev/A2uma0)
