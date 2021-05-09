@@ -17,12 +17,12 @@
     <a href="Discord.txt"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
     <a href="https://www.reddit.com/user/A2uma0"><img src="https://img.icons8.com/nolan/64/reddit.png" alt="reddit"/></a>
     <a href="https://www.youtube.com/channel/UCyft-5rikPosrVwyNmPTohg"><img src="https://img.icons8.com/nolan/64/youtube-play.png" alt="youtube"/></a>
+    <a href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=6f021edd2b80448d"><img src="https://img.icons8.com/nolan/64/spotify.png" alt="spotify"/></a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=jolly)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=jolly)
-
 
 
 
