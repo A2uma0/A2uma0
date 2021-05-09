@@ -14,7 +14,7 @@
 - ⚡ Fun fact²: I use Arch btw (I really don't).
 
 <p align="right">
-    <a href="mailto:A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
+    <a href="A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=midnight-purple)
