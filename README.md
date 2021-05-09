@@ -5,6 +5,7 @@
 <img src="https://github.com/A2uma0/A2uma0/raw/main/banner1.gif" alt="Banner">
 </div>
 
+<h1 align="center">🤍 𝓢𝓽𝓾𝓯𝓯 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮: 🤍</h1>
 
 ### 🌙 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇, 🌙
 
