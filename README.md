@@ -14,7 +14,6 @@
 
 ### Vibing to : 🎧 
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/tom.kap-de) <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=react)
 
