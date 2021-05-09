@@ -1,4 +1,4 @@
-### Hello there 😏
+### ǝɹǝɥʇ ollǝH 😏
 
 
 - 🔭 I’m currently working on: trying to fix my life.
@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=midnight-purple)
 
 <p align="left">
-    <a href="mailto:A2#6909"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+    <a href="mailto:A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
 </p>
 
 
