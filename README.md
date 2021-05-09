@@ -7,7 +7,7 @@
 - 💬 Ask me about: nothing.
 - 📫 How to reach me: why would you want to do that? But anyways it's down below 👀.
 - ⚡ Fun fact: [React](https://github.com/reactdev1337) is cool.
-- ⚡ Fun fact²: I use Arch btw (I really don't, I only use ubuntu).
+- ⚡ Fun fact²: I use Arch btw (I really don't).
 
 <p align="center">
     <a href="mailto:A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
@@ -16,6 +16,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=midnight-purple)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=midnight-purple)
+
+### I don't really know why:
 
 
 
