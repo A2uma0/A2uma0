@@ -12,8 +12,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=react)
 <br>
 
-### Vibing to : 🎧 
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=react)
 
