@@ -6,7 +6,7 @@
 </div>
 
 
-### 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇,
+### 🌙 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇, 🌙
 
 - 🔭 I’m currently working on: trying to fix my life.
 - 🌱 I’m currently learning: C#, Webdesign stuff.								
