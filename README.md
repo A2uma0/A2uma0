@@ -13,7 +13,7 @@
 - ⚡ Fun fact: [React](https://github.com/reactdev1337) is cool.
 - ⚡ Fun fact²: I use Arch btw (I really don't).
 
-<p align="center">
+<p align="right">
     <a href="mailto:A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
 </p>
 
