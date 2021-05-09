@@ -8,8 +8,8 @@
 - 📫 How to reach me: why would you want to do that? But anyways here: A2#6909 (Discord)
 - ⚡ Fun fact: [React](https://github.com/reactdev1337) is cool
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ReactDev1337&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReactDev1337&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/ReactDev1337)
+![Profile views](https://gpvc.arturio.dev/A2uma0)
