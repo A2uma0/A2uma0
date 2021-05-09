@@ -3,7 +3,7 @@
 </div>
 
 
-### Hey there Stranger,
+### 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇,
 
 - 🔭 I’m currently working on: trying to fix my life.
 - 🌱 I’m currently learning: C#, Webdesign stuff.								
@@ -17,9 +17,9 @@
     <a href="A2#6909"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=jolly)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=jolly)
 
 
 
