@@ -12,4 +12,4 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/A2uma0)
+![Profile views](https://gpvc.arturio.dev/ReactDev1337)
