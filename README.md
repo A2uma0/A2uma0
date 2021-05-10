@@ -25,6 +25,22 @@
     <a href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=6f021edd2b80448d"><img src="https://img.icons8.com/nolan/64/spotify.png" alt="spotify"/></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/nolan/64/python.png" alt="python" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css" width="50" height="50"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html-5.png" alt="html5" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/windows-10.png" alt="windows" width="50" height="50"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" alt="unity" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-after-effects.png" alt="aftereffects" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png" alt="premierpro" width="50" height="50"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" alt="photoshop" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" alt="illustrator" width="50" height="50"/> </a>
+</p>
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=jolly)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=jolly)
