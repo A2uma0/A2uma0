@@ -10,7 +10,7 @@
 ### 🌙 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇, 🌙
 
 - 🔭 I’m currently working on: trying to fix my life.
-- 🌱 I’m currently learning: C#, Webdesign stuff.								
+- 🌱 I’m currently learning: C#, Webdesign stuff, VFX and Editing.								
 - 👯 I’m looking to collaborate with: [React 😢](https://github.com/reactdev1337)
 - 💬 Ask me about: nothing really, since I probably won't have the answer you are looking for...
 - 📫 How to reach me: why would you want to do that? But anyways it's down below 👀.
