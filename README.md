@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on: trying to fix my life.
 - 🌱 I’m currently learning: C#, Webdesign stuff, VFX and Editing.								
 - 👯 I’m looking to collaborate with: [React 😢](https://github.com/reactdev1337)
-- 💬 Ask me about: nothing really, since I probably won't have the answer you are looking for...
-- 📫 How to reach me: why would you want to do that? But anyways it's down below 👀.
+- 💬 Ask me about: nothing really, Since I probably won't have the answer you are looking for...
+- 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
 - ⚡ Fun fact¹: [React](https://github.com/reactdev1337) is cool.
 - ✨ Fun fact²: I use Arch btw (I really don't).
 - 💙 Fun fact³: I hate Discord but I still use it. (I'll stop now)
