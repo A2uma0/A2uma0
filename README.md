@@ -30,7 +30,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html-5.png" alt="html5" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/windows-10.png" alt="windows" width="50" height="50"/> </a>
+<a href="https://www.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/windows-10.png" alt="windows" width="50" height="50"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" alt="unity" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-after-effects.png" alt="aftereffects" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png" alt="premierpro" width="50" height="50"/> </a>
