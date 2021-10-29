@@ -18,10 +18,10 @@
 - 💙 Fun fact³: I use the Terminal so I look cool (I'll stop now).
 
 <p align="center">
-    <a href="Discord.txt"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
+    <a href="https://www.a2uma.club/Discord"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
     <a href="https://www.reddit.com/user/A2uma0"><img src="https://img.icons8.com/nolan/64/reddit.png" alt="reddit"/></a>
     <a href="https://www.youtube.com/channel/UCyft-5rikPosrVwyNmPTohg"><img src="https://img.icons8.com/nolan/64/youtube-play.png" alt="youtube"/></a>
-    <a href="https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=6f021edd2b80448d"><img src="https://img.icons8.com/nolan/64/spotify.png" alt="spotify"/></a>
+    <a href="https://open.spotify.com/track/6MwjuU4eG0nStUUnlGwhCr?si=81e90956ab7446d8"><img src="https://img.icons8.com/nolan/64/spotify.png" alt="spotify"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
