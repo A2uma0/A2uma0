@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: C#, Webdesign stuff, VFX and Editing.								
 - 💬 Ask me about: nothing really, Since I probably won't have the answer you are looking for...
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
-- ✨ Fun fact: I use Arch btw (I really don't).
+- ✨ Fun fact: I use Arch btw.
 
 <p align="center">
     <a href="https://www.a2uma.club/Discord"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
