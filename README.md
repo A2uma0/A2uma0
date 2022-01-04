@@ -38,10 +38,6 @@
 
 
 <a href="https://a2uma.club/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=jolly)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=jolly)
-
 
 
 ![Profile views](https://gpvc.arturio.dev/A2uma0)
