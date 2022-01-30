@@ -1,5 +1,4 @@
 <h1 align="center">☁️ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ☁️</h1>
-<h3 align="center">🌊 𝓌𝒽𝓎 𝒶𝓇𝑒 𝓎𝑜𝓊 𝒽𝑒𝓇𝑒? 🌊</h3>
 
 <div align="center">
 <img src="https://github.com/A2uma0/A2uma0/raw/main/banner1.gif" alt="Banner">
