@@ -1,16 +1,25 @@
 
-<div align="center">
-<img src="https://github.com/A2uma0/A2uma0/raw/main/banner1.gif" alt="Banner">
-</div>
+```js
+function profile() {
+  var name = "A2";
+  var os = "Arch, Win11";
+  var age = "???";
+  var langs = "Python, Javascript, Html, CSS, (Dart)";
+  var tech = "Nginx, Apache2, Git, Docker"
+  var website = "a2uma.club";
+  
+  console.log("Welcome to my profile!");
+}
+```
 
-<h1 align="center">Stuff about me:</h1>
 
+## 
 
-- 🔭 I’m currently working on: trying to fix my life.
+- 🔭 I’m currently working on: Nothing really.
 - 🌱 I’m currently learning: Flutter, Webdesign stuff, VFX and Editing.								
 - 💬 Ask me about: nothing really, Since I probably won't have the answer you are looking for...
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
-- ✨ Fun fact: I use Arch btw.
+- ✨ Fun fact: My Code is bad.
 
 <p align="center">
     <a href="https://www.a2uma.club/Discord"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
