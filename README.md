@@ -4,7 +4,7 @@ function profile() {
   var name = "A2";
   var os = "Arch, Win11";
   var age = "???";
-  var langs = "Python, Javascript, Html, CSS, (Dart)";
+  var langs = "Python, Javascript (React (Native); Node), Html, CSS";
   var tech = "Nginx, Apache2, Git, Docker"
   var website = "a2uma.club";
   
