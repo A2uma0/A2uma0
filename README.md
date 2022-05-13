@@ -2,7 +2,7 @@
 ```js
 function profile() {
   var name = "A2";
-  var os = "Arch, Win11";
+  var os = "Arch, Debian, Win11";
   var age = "???";
   var langs = "Python, Javascript, Html, CSS";
   var tech = "Nginx, Apache2, Git, Docker"
