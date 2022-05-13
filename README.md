@@ -16,7 +16,7 @@ function profile() {
 ## 
 
 - 🔭 I’m currently working on: Nothing really.
-- 🌱 I’m currently learning: Flutter, Webdesign stuff, VFX and Editing.								
+- 🌱 I’m currently learning: React Native, Webdesign stuff, VFX and Editing.								
 - 💬 Ask me about: Nothing really, since I probably won't have the answer you are looking for...
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
 - ✨ Fun fact: My Code is bad.
