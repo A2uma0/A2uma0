@@ -15,11 +15,11 @@ function profile() {
 
 ## 
 
-- 🔭 I’m currently working on: Nothing really.
+- 🔭 I’m currently working on: Something secret.
 - 🌱 I’m currently learning: React Native, Webdesign stuff, VFX and Editing.								
 - 💬 Ask me about: Nothing really, since I probably won't have the answer you are looking for...
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
-- ✨ Fun fact: My Code is bad.
+- ✨ Fun fact: If you can't find something on the internet, you just don't know how to search for it.
 
 <p align="center">
     <a href="https://www.a2uma.club/Discord"><img src="https://img.icons8.com/nolan/64/discord-logo.png" alt="discord"/></a>
