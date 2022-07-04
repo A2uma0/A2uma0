@@ -6,7 +6,7 @@ function profile() {
   var age = "???";
   var langs = "Python, Javascript, Html, CSS";
   var tech = "Nginx, Apache2, Git, Docker"
-  var website = "a2uma.club";
+  var website = "init0.cc";
   
   console.log("Welcome to my profile!");
 }
