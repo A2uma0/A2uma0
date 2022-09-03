@@ -16,7 +16,7 @@ function profile() {
 ## 
 
 - 🔭 I’m currently working on: Something secret.
-- 🌱 I’m currently learning: React Native, Webdesign stuff, VFX and Editing.								
+- 🌱 I’m currently learning: React Native, Webdesign stuff, C/C++.								
 - 💬 Ask me about: Nothing really, since I probably won't have the answer you are looking for...
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
 - ✨ Fun fact: If you can't find something on the internet, you just don't know how to search for it.
