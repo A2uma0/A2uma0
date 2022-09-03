@@ -5,7 +5,7 @@ function profile() {
   var os = "Arch, Debian, Win11";
   var age = "???";
   var langs = "Python, Javascript, Html, CSS";
-  var tech = "Nginx, Apache2, Git, Docker"
+  var tech = "Nginx, Apache2, Git, Docker";
   var website = "init0.cc";
   
   console.log("Welcome to my profile!");
